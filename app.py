@@ -275,7 +275,7 @@ TUGAS:
    - Contoh Benar (Relay): "Berfungsi sebagai saklar elektrik terisolasi untuk mengontrol arus besar pada pompa."
 3. ATURAN SELF-CORRECTION (SANGAT PENTING):
    - Kamu bertindak sebagai pengawas (Safety Net). Jika ada komponen di daftar yang SANGAT TIDAK RELEVAN secara hukum fisika/mekanika dengan deskripsi proyek (Contoh: menggunakan Kunci Pintu / Solenoid Door Lock untuk sistem air/kebun), KAMU DILARANG KERAS MENGARANG ALASAN/HALUSINASI!
-   - Jika menemukan ketidakcocokan fatal seperti itu, isi value alasan komponen tersebut"
+   - Jika menemukan ketidakcocokan fatal seperti itu, isi value alasan komponen tersebut dengan alasan yang Logis dan jujur mengapa komponen itu TIDAK RELEVAN"
 4. Pada key 'catatan_inferensi', tulis 1-2 kalimat logis tentang arsitektur keseluruhan atau alasan mengapa ada komponen tambahan yang tidak diminta (misalnya sensor dipasang untuk antisipasi).
 5. Output HARUS format JSON murni.
 """
